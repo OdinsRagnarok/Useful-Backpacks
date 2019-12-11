@@ -1,0 +1,7 @@
+#####Translation into Spanish by OdinsRagnarok#####
+
+itemGroup.usefulbackpacks:tab=Mochilas Útiles
+
+usefulbackpacks:item.backpack.small.name=Mochila Pequeña
+usefulbackpacks:item.backpack.medium.name=Mochila Mediana
+usefulbackpacks:item.backpack.large.name=Mochila Grande
